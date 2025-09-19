@@ -1,0 +1,14 @@
+﻿→ Install Ollama and run with llama3.1:8b llm model, also fill below details in .env file
+
+VCENTER_URL = "https://vcenter.com/"
+VCENTER_USER = "user_id"
+VCENTER_PASS = "password"
+SOURCE_VM = "vm_id"
+CLUSTER = "cluster_id"
+HOST = "host_id"
+
+→ Pre-filled Ollama details if wants to modify
+
+OLLAMA_MODEL = "llama3.1:8b"
+OLLAMA_HOST = "http://localhost:11434"
+
